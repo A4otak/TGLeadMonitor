@@ -1,0 +1,13 @@
+.env
+data/
+*.session
+*.session-journal
+*.db
+*.db-journal
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+backup_config.json
